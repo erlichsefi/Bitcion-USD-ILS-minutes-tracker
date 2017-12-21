@@ -1,4 +1,4 @@
-Installion steps:
+installation steps:
 1. Download & install python 3 or higher  https://www.python.org/downloads/
 	 - you can follow this link: https://www.youtube.com/watch?v=dX2-V2BocqQ 
 2. Add python to Path
